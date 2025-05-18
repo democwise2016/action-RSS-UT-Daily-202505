@@ -61,6 +61,43 @@ let feedList = [
       maxItems: 3
     }
   },
+  {
+    title: 'TODAY 看世界',
+    feedID: 'today-everyday',
+    homepageURL: 'https://www.youtube.com/channel/UCmMnzrvnsSnv-0u9M1Rxiqw',
+    feedURL: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCmMnzrvnsSnv-0u9M1Rxiqw',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min
+    ],
+    // options: {
+    //   maxItems: 3
+    // }
+  },
+  {
+    title: 'SHIN LI信用卡優惠',
+    feedID: 'SHINLI',
+    homepageURL: 'https://www.youtube.com/channel/UCK-qc_POQZwWrMg-Pr-oYtg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    //maxItems: 2, // default 10
+    options: {
+      maxItems: 3
+    }
+  },
+  {
+    title: '玩家機密',
+    feedID: 'GamerSecret',
+    homepageURL: 'https://www.youtube.com/channel/UCmtmIF-u0ojej0y9i9STuIw',
+    itemFilters: [
+      ItemFiltersPreset.between3minTo30Min,
+      (item) => { return ((item.title.indexOf('【每週新聞】') === -1)) }
+    ]
+  },
+  {
+    title: '窮奢極欲',
+    feedID: 'withmoney',
+    homepageURL: 'https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3_Jw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 ]
 
 // 
