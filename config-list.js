@@ -52,6 +52,15 @@ let feedList = [
       maxItems: 3
     }
   },
+  {
+    title: '老范講故事 聊 AI',
+    feedID: 'StorytellerFan',
+    homepageURL: 'https://www.youtube.com/channel/UCUGLhcs3-3y_yhZZsgRzrzw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+    options: {
+      maxItems: 3
+    }
+  },
 ]
 
 // 
