@@ -52,6 +52,9 @@ let feedList = [
       maxItems: 3
     }
   },
+
+  // ======== 以上 5 個 ============
+  
   {
     title: '老范講故事 聊 AI',
     feedID: 'StorytellerFan',
@@ -96,6 +99,21 @@ let feedList = [
     title: '窮奢極欲',
     feedID: 'withmoney',
     homepageURL: 'https://www.youtube.com/channel/UCA0o60mhG0v2Eha8wSL3_Jw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+
+  // ======== 以上 10 個 ============
+  
+  {
+    title: '小鄭在日本',
+    feedID: 'teteforjapan',
+    homepageURL: 'https://www.youtube.com/channel/UCn2WdaugAANMkiXfUcCNdtA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: 'The News Lens 關鍵評論網',
+    feedID: 'TheNewsLens',
+    homepageURL: 'https://www.youtube.com/channel/UC4bokYuSrVGpI6_WYv7Gdbw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
 ]
