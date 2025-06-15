@@ -1,0 +1,33 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <title><![CDATA[老范講故事 聊 AI[YT+]]]></title>
+    <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw</link>
+    <image>
+      <url>https://yt3.googleusercontent.com/gc_1qrMmMseT4FaIeeK_R3DBZbKTdJAdGm53XaW6EW9S8O2TXqfHFcs_Eeu1HSnIB8wS6MZnHg=s900-b50-c-k-c0x008A95A5-no-rj</url>
+      <title>老范講故事 聊 AI[YT+]</title>
+      <link>http://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw</link>
+    </image>
+    <language>en-us</language>
+    <atom:link href="https://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw" rel="self" type="application/rss+xml"/>
+    <copyright><![CDATA[老范講故事 聊 AI[YT+]]]></copyright>
+    <itunes:author><![CDATA[老范講故事 聊 AI[YT+]]]></itunes:author>
+    <itunes:summary>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCUGLhcs3-3y_yhZZsgRzrzw" target="_blank">https://www.youtube.com/channel/UCUGLhcs3-3y_yhZZsgRzrzw</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw</a>
+      ]]>
+    </itunes:summary>
+    <description>
+      <![CDATA[
+      <a href="https://www.youtube.com/channel/UCUGLhcs3-3y_yhZZsgRzrzw" target="_blank">https://www.youtube.com/channel/UCUGLhcs3-3y_yhZZsgRzrzw</a><br />
+<br />
+<a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCUGLhcs3-3y_yhZZsgRzrzw</a>
+      ]]>
+    </description>
+    <itunes:owner>
+      <itunes:name><![CDATA[老范講故事 聊 AI[YT+]]]></itunes:name>
+    </itunes:owner>
+    <itunes:image href="https://yt3.googleusercontent.com/gc_1qrMmMseT4FaIeeK_R3DBZbKTdJAdGm53XaW6EW9S8O2TXqfHFcs_Eeu1HSnIB8wS6MZnHg=s900-b50-c-k-c0x008A95A5-no-rj"/>
+</channel>
+</rss>
