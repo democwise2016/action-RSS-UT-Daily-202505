@@ -3,7 +3,7 @@
     <title><![CDATA[攝徒日記Fun TV[YT+]]]></title>
     <link>undefined</link>
     <image>
-      <url>https://fastly.picsum.photos/id/400/800/800.jpg?hmac=BMKbDjIG90h2IWDGCVvywlBgN_G58YnNXN7MW-8SdCg</url>
+      <url>https://fastly.picsum.photos/id/208/800/800.jpg?hmac=82xzuKk6evQ7w6c_9D2tJP8kT36XdjPe_SkD5jTp-a4</url>
       <title>攝徒日記Fun TV[YT+]</title>
       <link>undefined</link>
     </image>
@@ -13,14 +13,14 @@
     <itunes:author><![CDATA[攝徒日記Fun TV[YT+]]]></itunes:author>
     <itunes:summary>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCvTe3Z7TZsjGzUERx4Ce6zA" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCvTe3Z7TZsjGzUERx4Ce6zA</a>
       ]]>
     </itunes:summary>
     <description>
       <![CDATA[
-      Failed to parse feed: Status code 404<br />
+      Failed to parse feed: Status code 500<br />
 <br />
 <a href="https://www.youtube.com/feeds/videos.xml?channel_id=UCvTe3Z7TZsjGzUERx4Ce6zA" target="_blank">https://www.youtube.com/feeds/videos.xml?channel_id=UCvTe3Z7TZsjGzUERx4Ce6zA</a>
       ]]>
@@ -28,6 +28,6 @@
     <itunes:owner>
       <itunes:name><![CDATA[攝徒日記Fun TV[YT+]]]></itunes:name>
     </itunes:owner>
-    <itunes:image href="https://fastly.picsum.photos/id/400/800/800.jpg?hmac=BMKbDjIG90h2IWDGCVvywlBgN_G58YnNXN7MW-8SdCg"/>
+    <itunes:image href="https://fastly.picsum.photos/id/208/800/800.jpg?hmac=82xzuKk6evQ7w6c_9D2tJP8kT36XdjPe_SkD5jTp-a4"/>
 </channel>
 </rss>
